@@ -1,0 +1,11 @@
+*.png
+*.drawio
+*.csv
+*.xlsx
+*.log
+*.backup
+XLSX old/
+bases salario servidores historico/
+chrome-win/
+chromedriver.exe
+nao_usado.ipynb
